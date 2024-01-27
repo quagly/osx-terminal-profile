@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WindowList</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>{0, 1052}</string>
+			<key>ScrollerStyle</key>
+			<integer>0</integer>
+			<key>ShowsTabBar</key>
+			<false/>
+			<key>ShowsTabBarInFullScreen</key>
+			<false/>
+			<key>Window Settings</key>
+			<array>
+				<dict>
+					<key>Tab Column Count</key>
+					<integer>172</integer>
+					<key>Tab Row Count</key>
+					<integer>41</integer>
+					<key>Tab Scrollback Restorable</key>
+					<true/>
+					<key>Tab Session Class ID</key>
+					<string>760FD826-41B2-4812-BECB-A4FE71B16497</string>
+					<key>Tab Settings</key>
+					<dict>
+						<key>ProfileCurrentVersion</key>
+						<real>2.0699999999999998</real>
+						<key>name</key>
+						<string>Belafonte Night</string>
+						<key>type</key>
+						<string>Window Settings</string>
+					</dict>
+					<key>Tab Settings Name</key>
+					<string>Belafonte Night</string>
+					<key>Tab Working Directory URL</key>
+					<string>file://Mikes-Mac-mini.local/Users/quagly/</string>
+					<key>Tab Working Directory URL String</key>
+					<string>file://Mikes-Mac-mini.local/Users/quagly</string>
+					<key>TabSelected</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Tab Column Count</key>
+					<integer>172</integer>
+					<key>Tab Row Count</key>
+					<integer>41</integer>
+					<key>Tab Scrollback Restorable</key>
+					<true/>
+					<key>Tab Session Class ID</key>
+					<string>25727463-1B6D-43EC-B326-9E3CA637A6FB</string>
+					<key>Tab Settings</key>
+					<dict>
+						<key>ProfileCurrentVersion</key>
+						<real>2.0699999999999998</real>
+						<key>name</key>
+						<string>CrayonPonyFish</string>
+						<key>type</key>
+						<string>Window Settings</string>
+					</dict>
+					<key>Tab Settings Name</key>
+					<string>CrayonPonyFish</string>
+					<key>Tab Working Directory URL</key>
+					<string>file://Mikes-Mac-mini.local/Users/quagly/</string>
+					<key>Tab Working Directory URL String</key>
+					<string>file://Mikes-Mac-mini.local/Users/quagly</string>
+					<key>TabSelected</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>Tab Column Count</key>
+					<integer>172</integer>
+					<key>Tab Row Count</key>
+					<integer>41</integer>
+					<key>Tab Scrollback Restorable</key>
+					<true/>
+					<key>Tab Session Class ID</key>
+					<string>5789231A-41A7-4A9E-A089-7FE82127E481</string>
+					<key>Tab Settings</key>
+					<dict>
+						<key>ProfileCurrentVersion</key>
+						<real>2.0699999999999998</real>
+						<key>name</key>
+						<string>Seafoam Pastel</string>
+						<key>type</key>
+						<string>Window Settings</string>
+					</dict>
+					<key>Tab Settings Name</key>
+					<string>Seafoam Pastel</string>
+					<key>Tab Working Directory URL</key>
+					<string>file://Mikes-Mac-mini.local/Users/quagly/</string>
+					<key>Tab Working Directory URL String</key>
+					<string>file://Mikes-Mac-mini.local/Users/quagly</string>
+					<key>TabSelected</key>
+					<false/>
+				</dict>
+			</array>
+			<key>WindowNumber</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>Default window group</string>
+	<key>type</key>
+	<string>Window Group</string>
+</dict>
+</plist>
