@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>Origin</key>
-			<string>{0, 1052}</string>
+			<string>{87, 1055}</string>
 			<key>ScrollerStyle</key>
 			<integer>0</integer>
 			<key>ShowsTabBar</key>
@@ -17,24 +17,24 @@
 			<array>
 				<dict>
 					<key>Tab Column Count</key>
-					<integer>172</integer>
+					<integer>132</integer>
 					<key>Tab Row Count</key>
-					<integer>41</integer>
+					<integer>36</integer>
 					<key>Tab Scrollback Restorable</key>
 					<true/>
 					<key>Tab Session Class ID</key>
-					<string>760FD826-41B2-4812-BECB-A4FE71B16497</string>
+					<string>E1C212AB-EB60-45CC-B8B2-728A304FF462</string>
 					<key>Tab Settings</key>
 					<dict>
 						<key>ProfileCurrentVersion</key>
 						<real>2.0699999999999998</real>
 						<key>name</key>
-						<string>Belafonte Night</string>
+						<string>Belafonte-Night</string>
 						<key>type</key>
 						<string>Window Settings</string>
 					</dict>
 					<key>Tab Settings Name</key>
-					<string>Belafonte Night</string>
+					<string>Belafonte-Night</string>
 					<key>Tab Working Directory URL</key>
 					<string>file://Mikes-Mac-mini.local/Users/quagly/</string>
 					<key>Tab Working Directory URL String</key>
@@ -44,24 +44,24 @@
 				</dict>
 				<dict>
 					<key>Tab Column Count</key>
-					<integer>172</integer>
+					<integer>132</integer>
 					<key>Tab Row Count</key>
-					<integer>41</integer>
+					<integer>36</integer>
 					<key>Tab Scrollback Restorable</key>
 					<true/>
 					<key>Tab Session Class ID</key>
-					<string>25727463-1B6D-43EC-B326-9E3CA637A6FB</string>
+					<string>4A544863-D4CA-41A3-A578-219710891989</string>
 					<key>Tab Settings</key>
 					<dict>
 						<key>ProfileCurrentVersion</key>
 						<real>2.0699999999999998</real>
 						<key>name</key>
-						<string>CrayonPonyFish</string>
+						<string>AlienBlood</string>
 						<key>type</key>
 						<string>Window Settings</string>
 					</dict>
 					<key>Tab Settings Name</key>
-					<string>CrayonPonyFish</string>
+					<string>AlienBlood</string>
 					<key>Tab Working Directory URL</key>
 					<string>file://Mikes-Mac-mini.local/Users/quagly/</string>
 					<key>Tab Working Directory URL String</key>
@@ -71,24 +71,26 @@
 				</dict>
 				<dict>
 					<key>Tab Column Count</key>
-					<integer>172</integer>
+					<integer>132</integer>
 					<key>Tab Row Count</key>
-					<integer>41</integer>
+					<integer>36</integer>
 					<key>Tab Scrollback Restorable</key>
 					<true/>
 					<key>Tab Session Class ID</key>
-					<string>5789231A-41A7-4A9E-A089-7FE82127E481</string>
+					<string>C9DD195C-ED75-41A2-93A0-6BF9D50E3D9A</string>
 					<key>Tab Settings</key>
 					<dict>
 						<key>ProfileCurrentVersion</key>
 						<real>2.0699999999999998</real>
 						<key>name</key>
-						<string>Seafoam Pastel</string>
+						<string>JetBrains-Darcula</string>
 						<key>type</key>
 						<string>Window Settings</string>
 					</dict>
 					<key>Tab Settings Name</key>
-					<string>Seafoam Pastel</string>
+					<string>JetBrains-Darcula</string>
+					<key>Tab Title</key>
+					<string>Darcula</string>
 					<key>Tab Working Directory URL</key>
 					<string>file://Mikes-Mac-mini.local/Users/quagly/</string>
 					<key>Tab Working Directory URL String</key>
